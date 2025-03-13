@@ -1,0 +1,48 @@
+/*
+  white: #FFFFFF
+  pink: #AD5F74
+  blue: #5FAD98
+*/
+
+h1 {
+	color: #AD5F74;
+	text-align: center;
+}
+
+th, td{
+	border: #5FAD98 inset 3px;
+	padding: 12px;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+a{
+	color: #AD5F74;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #5FAD98;
+}
+
+p.textcontent{
+	background-color: #AD5F74;
+	color: #FFFFFF;
+	width: 360px;
+	padding: 12px;
+	border: #5FAD98 dotted 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 32px;
+	margin-bottom: 32px;
+}
+
+div{
+	background-color: #AD5F74;
+	width: 646px;
+	padding: 16px;
+	border: #5FAD98 solid 8px;
+}
