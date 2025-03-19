@@ -1,0 +1,60 @@
+
+body {
+	background-color: #f5d5f4;
+}
+
+h1, h2, h3, h4, h5 {
+	text-align: center;
+}
+
+th, td {
+	border: #70bbe0 ridge 5px;
+	
+	padding: 8px;
+	
+	text-align: center;
+	
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+p.picture {
+	text-align: center;
+}
+
+p, li, th, td {
+	
+	font-size: 1.2em;
+	
+}
+
+p, p.link {
+	margin-left: 24px;
+	margin-right: 24px;
+	
+	text-align: center;
+}
+
+a {
+	color: #5850ab;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #7f50ab;
+	text-decoration: underline;
+}
+
+div {
+	text-align:center;
+	font-size: 1.2em;
+	padding: 6px;
+	margin-left: 540px;
+	margin-right: 540px;
+}
